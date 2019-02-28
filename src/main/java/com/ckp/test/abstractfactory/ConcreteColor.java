@@ -1,6 +1,6 @@
-package com.ckp.test.factory;
+package com.ckp.test.abstractfactory;
 
-public class ConcreteProduct2 extends Product {
+public class ConcreteColor extends Color {
 
 	@Override
 	public void method2() {

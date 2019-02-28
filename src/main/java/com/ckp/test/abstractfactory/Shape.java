@@ -1,6 +1,6 @@
-package com.ckp.test.factory;
+package com.ckp.test.abstractfactory;
 
-public abstract class Product {
+public abstract class Shape {
 	
 	//产品类的公共方法
 	public void method1(){

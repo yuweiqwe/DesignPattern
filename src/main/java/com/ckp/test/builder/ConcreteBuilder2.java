@@ -11,6 +11,11 @@ public class ConcreteBuilder2 extends AbstractBuilder {
 		System.out.println("ConcreteBuilder2 setPart");
 	}
 
+	public void setPart1() {
+		//内部逻辑处理
+		System.out.println("ConcreteBuilder2 setPart1");
+	}
+
 	@Override
 	public Product buildProduct() {
 		// TODO Auto-generated method stub
