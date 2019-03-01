@@ -2,7 +2,6 @@ package com.ckp.test.handler.strengthen_filter;
 
 import com.ckp.test.handler.filter.Request;
 import com.ckp.test.handler.filter.Response;
-import com.ckp.test.handler.filter.Target;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -36,8 +35,8 @@ public class FilterChain {
 
     public void doFilter(Request req, Response resp) {
         if(index == filters.size()){
-            Response response = target.doFilter(req);
-            resp.setResult(response.getResult());
+            Result result = target.doFilter(req);
+            resp.setResult(result);
             return;
         }
 
