@@ -1,7 +1,6 @@
 package com.ckp.test.handler.strengthen_filter;
 
 import com.ckp.test.handler.filter.Request;
-import com.ckp.test.handler.filter.Response;
 
 /**
  * 描述：
@@ -27,7 +26,7 @@ public class FilterManager {
     }
 
     public Response process(Request req){
-        Response response = new Response("init");
+        Response response = new Response();
         chain.doFilter(req, response);
 
         return response;

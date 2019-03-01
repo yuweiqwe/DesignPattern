@@ -1,6 +1,4 @@
-package com.ckp.test.handler.filter;
-
-import com.ckp.test.handler.strengthen_filter.Result;
+package com.ckp.test.handler.strengthen_filter;
 
 import java.io.Serializable;
 
@@ -21,20 +19,20 @@ import java.io.Serializable;
  **/
 public class Response implements Serializable {
 
-    private String result;
+    private Result result;
 
     public Response() {
     }
 
-    public Response(String result) {
+    public Response(Result result) {
         this.result = result;
     }
 
-    public String getResult() {
+    public Result getResult() {
         return result;
     }
 
-    public void setResult(String result) {
+    public void setResult(Result result) {
         this.result = result;
     }
 }

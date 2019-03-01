@@ -1,6 +1,5 @@
 package com.ckp.test.handler.strengthen_filter;
 
-import com.ckp.test.handler.filter.Response;
 import com.ckp.test.handler.filter.Request;
 
 /**
