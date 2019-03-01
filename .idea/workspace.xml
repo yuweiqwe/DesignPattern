@@ -3,159 +3,152 @@
   <component name="ChangeListManager">
     <list default="true" id="c72bc302-960e-4f97-8fc6-bf7af60930a0" name="Default" comment="config file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ckp/test/handler/filter/Response.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ckp/test/handler/filter/Response.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ckp/test/handler/strengthen_filter/AuthFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ckp/test/handler/strengthen_filter/AuthFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ckp/test/handler/strengthen_filter/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ckp/test/handler/strengthen_filter/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ckp/test/handler/strengthen_filter/Filter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ckp/test/handler/strengthen_filter/Filter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ckp/test/handler/strengthen_filter/FilterChain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ckp/test/handler/strengthen_filter/FilterChain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ckp/test/handler/strengthen_filter/FilterManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ckp/test/handler/strengthen_filter/FilterManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ckp/test/handler/strengthen_filter/LogFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ckp/test/handler/strengthen_filter/LogFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/adapter/clazz/Adaptee.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/adapter/clazz/Adaptee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/adapter/clazz/Adapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/adapter/clazz/Adapter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/adapter/clazz/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/adapter/clazz/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/adapter/clazz/ConcreteTarget.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/adapter/clazz/ConcreteTarget.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/adapter/clazz/Target.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/adapter/clazz/Target.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/adapter/obj/Adaptee.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/adapter/obj/Adaptee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/adapter/obj/Adapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/adapter/obj/Adapter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/adapter/obj/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/adapter/obj/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/adapter/obj/ConcreteTarget.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/adapter/obj/ConcreteTarget.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/adapter/obj/Target.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/adapter/obj/Target.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/adapter/clazz/Adaptee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/adapter/clazz/Adapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/adapter/clazz/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/adapter/clazz/ConcreteTarget.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/adapter/clazz/Target.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/adapter/obj/Adaptee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/adapter/obj/Adapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/adapter/obj/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/adapter/obj/ConcreteTarget.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/adapter/obj/Target.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/adapter/适配器模式.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/bridge/Abstraction.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/bridge/Abstraction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/bridge/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/bridge/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/bridge/ConcreteImplementor1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/bridge/ConcreteImplementor1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/bridge/ConcreteImplementor2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/bridge/ConcreteImplementor2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/bridge/Implementor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/bridge/Implementor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/bridge/RefinedAbstraction.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/bridge/RefinedAbstraction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/bridge/Abstraction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/bridge/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/bridge/ConcreteImplementor1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/bridge/ConcreteImplementor2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/bridge/Implementor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/bridge/RefinedAbstraction.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/bridge/桥梁模式.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/builder/AbstractBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/builder/AbstractBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/builder/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/builder/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/builder/ConcreteBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/builder/ConcreteBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/builder/ConcreteBuilder2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/builder/ConcreteBuilder2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/builder/Director.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/builder/Director.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/builder/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/builder/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/builder/AbstractBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/builder/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/builder/ConcreteBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/builder/ConcreteBuilder2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/builder/Director.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/builder/Product.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/builder/建造者模式.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/command/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/command/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/command/Command.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/command/Command.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/command/ConcreteCommand1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/command/ConcreteCommand1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/command/ConcreteCommand2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/command/ConcreteCommand2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/command/ConcreteReceiver1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/command/ConcreteReceiver1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/command/ConcreteReceiver2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/command/ConcreteReceiver2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/command/Invoker.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/command/Invoker.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/command/Receiver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/command/Receiver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/command/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/command/Command.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/command/ConcreteCommand1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/command/ConcreteCommand2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/command/ConcreteReceiver1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/command/ConcreteReceiver2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/command/Invoker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/command/Receiver.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/command/命令模式简介.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/composite/Branch.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/composite/Branch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/composite/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/composite/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/composite/ICorp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/composite/ICorp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/composite/ILeaf.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/composite/ILeaf.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/composite/Branch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/composite/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/composite/ICorp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/composite/ILeaf.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/composite/组合模式.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/decorator/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/decorator/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/decorator/Component.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/decorator/Component.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/decorator/ConcreteComponent.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/decorator/ConcreteComponent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/decorator/ConcreteDecorator1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/decorator/ConcreteDecorator1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/decorator/ConcreteDecorator2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/decorator/ConcreteDecorator2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/decorator/Decorator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/decorator/Decorator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/decorator/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/decorator/Component.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/decorator/ConcreteComponent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/decorator/ConcreteDecorator1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/decorator/ConcreteDecorator2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/decorator/Decorator.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/decorator/装饰模式.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/facade/Context.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/facade/Context.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/facade/Facade.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/facade/Facade.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/facade/SubClassA.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/facade/SubClassA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/facade/SubClassB.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/facade/SubClassB.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/facade/SubClassC.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/facade/SubClassC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/facade/Context.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/facade/Facade.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/facade/SubClassA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/facade/SubClassB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/facade/SubClassC.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/facade/门面模式.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/factory/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/factory/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/factory/ConcreteCreator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/factory/ConcreteCreator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/factory/ConcreteProduct1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/factory/ConcreteProduct1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/factory/ConcreteProduct2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/factory/ConcreteProduct2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/factory/Creator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/factory/Creator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/factory/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/factory/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/factory/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/factory/ConcreteCreator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/factory/ConcreteProduct1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/factory/ConcreteProduct2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/factory/Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/factory/Product.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/factory/工厂模式.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/flyweight/ConcreteFlyWeight1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/flyweight/ConcreteFlyWeight1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/flyweight/ConcreteFlyWeight2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/flyweight/ConcreteFlyWeight2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/flyweight/Extrinsic.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/flyweight/Extrinsic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/flyweight/FlyWeight.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/flyweight/FlyWeight.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/flyweight/FlyWeightFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/flyweight/FlyWeightFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/flyweight/ConcreteFlyWeight1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/flyweight/ConcreteFlyWeight2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/flyweight/Extrinsic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/flyweight/FlyWeight.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/flyweight/FlyWeightFactory.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/flyweight/享元模式.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/handler/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/handler/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/handler/ConcreteHandler0.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/handler/ConcreteHandler0.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/handler/ConcreteHandler1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/handler/ConcreteHandler1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/handler/ConcreteHandler2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/handler/ConcreteHandler2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/handler/Handler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/handler/Handler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/handler/Level.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/handler/Level.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/handler/Request.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/handler/Request.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/handler/Response.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/handler/Response.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/handler/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/handler/ConcreteHandler0.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/handler/ConcreteHandler1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/handler/ConcreteHandler2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/handler/Handler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/handler/Level.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/handler/Request.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/handler/Response.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/handler/责任链模式简介.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/interperter/AbstractExpression.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/interperter/AbstractExpression.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/interperter/Context.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/interperter/Context.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/interperter/NoTerminalExpression.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/interperter/NoTerminalExpression.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/interperter/TerminalExpression.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/interperter/TerminalExpression.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/interperter/example/AddExpression.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/interperter/example/AddExpression.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/interperter/example/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/interperter/example/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/interperter/example/Expression.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/interperter/example/Expression.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/interperter/example/InterperEngine.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/interperter/example/InterperEngine.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/interperter/example/SubExpression.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/interperter/example/SubExpression.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/interperter/example/SymbolExpression.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/interperter/example/SymbolExpression.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/interperter/example/VarExpression.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/interperter/example/VarExpression.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/interperter/AbstractExpression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/interperter/Context.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/interperter/NoTerminalExpression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/interperter/TerminalExpression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/interperter/example/AddExpression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/interperter/example/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/interperter/example/Expression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/interperter/example/InterperEngine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/interperter/example/SubExpression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/interperter/example/SymbolExpression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/interperter/example/VarExpression.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/interperter/解释器模式.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/iterator/Aggregate.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/iterator/Aggregate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/iterator/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/iterator/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/iterator/ConcreteAggregate.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/iterator/ConcreteAggregate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/iterator/ConcreteIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/iterator/ConcreteIterator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/iterator/Iterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/iterator/Iterator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/iterator/Aggregate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/iterator/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/iterator/ConcreteAggregate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/iterator/ConcreteIterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/iterator/Iterator.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/iterator/迭代器模式.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/mediator/AbstractMediator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/mediator/AbstractMediator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/mediator/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/mediator/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/mediator/Colleague.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/mediator/Colleague.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/mediator/ConcreteColleague1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/mediator/ConcreteColleague1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/mediator/ConcreteColleague2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/mediator/ConcreteColleague2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/mediator/Mediator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/mediator/Mediator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/mediator/AbstractMediator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/mediator/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/mediator/Colleague.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/mediator/ConcreteColleague1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/mediator/ConcreteColleague2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/mediator/Mediator.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/mediator/中介者模式简介.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/memento/Caretaker.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/memento/Caretaker.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/memento/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/memento/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/memento/Memento.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/memento/Memento.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/memento/Originator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/memento/Originator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/memento/Caretaker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/memento/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/memento/Memento.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/memento/Originator.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/memento/备忘录模式.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/observer/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/observer/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/observer/ConcreteObserver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/observer/ConcreteObserver.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/observer/ConcreteSubject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/observer/ConcreteSubject.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/observer/Observer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/observer/Observer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/observer/Subject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/observer/Subject.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/observer/jdk/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/observer/jdk/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/observer/jdk/RealObserver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/observer/jdk/RealObserver.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/observer/jdk/Subject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/observer/jdk/Subject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/observer/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/observer/ConcreteObserver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/observer/ConcreteSubject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/observer/Observer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/observer/Subject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/observer/jdk/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/observer/jdk/RealObserver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/observer/jdk/Subject.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/observer/观察者模式.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/prototype/DeepClone.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/prototype/DeepClone.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/prototype/PrototypeClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/prototype/PrototypeClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/prototype/DeepClone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/prototype/PrototypeClass.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/prototype/原型模式.docx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/proxy/代理模式.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/singleton/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/singleton/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/singleton/PerfectSingleton$SingletonHolder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/singleton/PerfectSingleton$SingletonHolder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/singleton/PerfectSingleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/singleton/PerfectSingleton.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/singleton/Singleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/singleton/Singleton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/singleton/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/singleton/PerfectSingleton$SingletonHolder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/singleton/PerfectSingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/singleton/Singleton.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/singleton/单例模式.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/state/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/state/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/state/ConcreteState1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/state/ConcreteState1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/state/ConcreteState2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/state/ConcreteState2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/state/Context.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/state/Context.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/state/State.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/state/State.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/state/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/state/ConcreteState1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/state/ConcreteState2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/state/Context.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/state/State.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/state/状态模式.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/strategy/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/strategy/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/strategy/ConcreteStrategy1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/strategy/ConcreteStrategy1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/strategy/ConcreteStrategy2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/strategy/ConcreteStrategy2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/strategy/Context.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/strategy/Context.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/strategy/IStrategy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/strategy/IStrategy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/strategy/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/strategy/ConcreteStrategy1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/strategy/ConcreteStrategy2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/strategy/Context.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/strategy/IStrategy.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/strategy/策略模式.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/template/AbstractClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/template/AbstractClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/template/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/template/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/template/ConcreteClass1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/template/ConcreteClass1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/template/ConcreteClass2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/template/ConcreteClass2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/template/AbstractClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/template/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/template/ConcreteClass1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/template/ConcreteClass2.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/template/模板模式.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/visitor/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/visitor/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/visitor/ConcreteElement1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/visitor/ConcreteElement1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/visitor/ConcreteElement2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/visitor/ConcreteElement2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/visitor/Element.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/visitor/Element.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/visitor/IVisitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/visitor/IVisitor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/visitor/ObjectStructure.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/visitor/ObjectStructure.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/visitor/Visitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/visitor/Visitor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/visitor/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/visitor/ConcreteElement1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/visitor/ConcreteElement2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/visitor/Element.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/visitor/IVisitor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/visitor/ObjectStructure.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/visitor/Visitor.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/visitor/访问者模式.docx" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -190,7 +183,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Git file" value="4" />
+          <entry key="Git file" value="5" />
           <entry key="JAVA" value="219" />
         </counts>
       </usages-collector>
@@ -206,31 +199,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ckp/test/handler/strengthen_filter/Client.java">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="46" lean-forward="true" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ckp/test/handler/strengthen_filter/FilterManager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ckp/test/handler/strengthen_filter/FilterChain.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="371">
-              <caret line="44" column="19" lean-forward="true" selection-start-line="44" selection-start-column="19" selection-end-line="44" selection-end-column="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="125">
+              <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -275,7 +247,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/ckp/test/builder/ConcreteBuilder.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ckp/test/builder/ConcreteBuilder2.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ckp/test/builder/Director.java" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/main/java/com/ckp/test/mediator/ConcreteColleague2.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ckp/test/handler/filter/Filter.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ckp/test/handler/filter/FilterChain.java" />
@@ -295,6 +266,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/ckp/test/handler/strengthen_filter/LogFilter.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ckp/test/handler/strengthen_filter/FilterManager.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ckp/test/handler/strengthen_filter/Client.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -344,47 +316,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="handler" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="handler" type="462c0819:PsiDirectoryNode" />
-              <item name="strengthen_filter" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -397,13 +328,13 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551436557522" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551436696733" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -620,7 +551,7 @@
       <workItem from="1545226518534" duration="729000" />
       <workItem from="1547193310390" duration="333000" />
       <workItem from="1547451308830" duration="15000" />
-      <workItem from="1551324731646" duration="14172000" />
+      <workItem from="1551324731646" duration="14311000" />
     </task>
     <task id="LOCAL-00001" summary="config file">
       <created>1516021160021</created>
@@ -657,17 +588,31 @@
       <option name="project" value="LOCAL" />
       <updated>1551436311182</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="config file">
+      <created>1551436575391</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1551436575391</updated>
+    </task>
+    <task id="LOCAL-00007" summary="config file">
+      <created>1551436681238</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1551436681238</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28983000" />
+    <option name="totallyTimeSpent" value="29122000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1705379" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1705379" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="JRebel" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
@@ -678,13 +623,13 @@
       <window_info id="Learn" order="8" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32941177" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32834226" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32834226" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32941177" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3315508" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3315508" />
       <window_info anchor="bottom" id="SonarLint" order="9" />
       <window_info anchor="bottom" id="JRebel Executor" order="10" />
       <window_info anchor="bottom" id="JRebel Console" order="11" side_tool="true" />
@@ -759,13 +704,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="config file" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ckp/test/flyweight/FlyWeightFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ckp/test/handler/ConcreteHandler0.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -1130,13 +1068,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ckp/test/handler/strengthen_filter/FilterChain.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ckp/test/handler/strengthen_filter/Client.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="371">
-          <caret line="44" column="19" lean-forward="true" selection-start-line="44" selection-start-column="19" selection-end-line="44" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="285">
+          <caret line="19" column="21" lean-forward="true" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -1147,10 +1082,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ckp/test/handler/strengthen_filter/Client.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ckp/test/handler/strengthen_filter/FilterChain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="46" lean-forward="true" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
+        <state relative-caret-position="371">
+          <caret line="44" column="19" lean-forward="true" selection-start-line="44" selection-start-column="19" selection-end-line="44" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
         </state>
       </provider>
     </entry>
