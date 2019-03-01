@@ -32,3 +32,4 @@ data/
 .gradle/*
 ~/
 /.idea/
+/target/
