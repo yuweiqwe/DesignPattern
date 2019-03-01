@@ -1,46 +1,334 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c72bc302-960e-4f97-8fc6-bf7af60930a0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/catalog" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    <list default="true" id="c72bc302-960e-4f97-8fc6-bf7af60930a0" name="Default" comment="config file">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ckp/test/decorator/装饰模式.docx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ckp/test/decorator/装饰模式.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ckp/test/handler/责任链模式简介.docx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ckp/test/handler/责任链模式简介.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ckp/test/mediator/ConcreteColleague2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ckp/test/mediator/ConcreteColleague2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ckp/test/observer/观察者模式.docx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ckp/test/observer/观察者模式.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/adapter/clazz/Adaptee.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/adapter/clazz/Adaptee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/adapter/clazz/Adapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/adapter/clazz/Adapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/adapter/clazz/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/adapter/clazz/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/adapter/clazz/ConcreteTarget.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/adapter/clazz/ConcreteTarget.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/adapter/clazz/Target.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/adapter/clazz/Target.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/adapter/obj/Adaptee.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/adapter/obj/Adaptee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/adapter/obj/Adapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/adapter/obj/Adapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/adapter/obj/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/adapter/obj/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/adapter/obj/ConcreteTarget.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/adapter/obj/ConcreteTarget.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/adapter/obj/Target.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/adapter/obj/Target.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/adapter/适配器模式.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/bridge/Abstraction.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/bridge/Abstraction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/bridge/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/bridge/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/bridge/ConcreteImplementor1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/bridge/ConcreteImplementor1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/bridge/ConcreteImplementor2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/bridge/ConcreteImplementor2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/bridge/Implementor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/bridge/Implementor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/bridge/RefinedAbstraction.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/bridge/RefinedAbstraction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/bridge/桥梁模式.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/builder/AbstractBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/builder/AbstractBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/builder/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/builder/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/builder/ConcreteBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/builder/ConcreteBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/builder/ConcreteBuilder2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/builder/ConcreteBuilder2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/builder/Director.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/builder/Director.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/builder/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/builder/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/builder/建造者模式.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/command/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/command/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/command/Command.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/command/Command.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/command/ConcreteCommand1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/command/ConcreteCommand1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/command/ConcreteCommand2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/command/ConcreteCommand2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/command/ConcreteReceiver1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/command/ConcreteReceiver1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/command/ConcreteReceiver2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/command/ConcreteReceiver2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/command/Invoker.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/command/Invoker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/command/Receiver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/command/Receiver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/command/命令模式简介.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/composite/Branch.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/composite/Branch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/composite/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/composite/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/composite/ICorp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/composite/ICorp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/composite/ILeaf.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/composite/ILeaf.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/composite/组合模式.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/decorator/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/decorator/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/decorator/Component.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/decorator/Component.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/decorator/ConcreteComponent.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/decorator/ConcreteComponent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/decorator/ConcreteDecorator1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/decorator/ConcreteDecorator1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/decorator/ConcreteDecorator2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/decorator/ConcreteDecorator2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/decorator/Decorator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/decorator/Decorator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/decorator/装饰模式.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/facade/Context.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/facade/Context.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/facade/Facade.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/facade/Facade.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/facade/SubClassA.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/facade/SubClassA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/facade/SubClassB.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/facade/SubClassB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/facade/SubClassC.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/facade/SubClassC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/facade/门面模式.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/factory/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/factory/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/factory/ConcreteCreator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/factory/ConcreteCreator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/factory/ConcreteProduct1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/factory/ConcreteProduct1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/factory/ConcreteProduct2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/factory/ConcreteProduct2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/factory/Creator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/factory/Creator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/factory/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/factory/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/factory/工厂模式.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/flyweight/ConcreteFlyWeight1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/flyweight/ConcreteFlyWeight1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/flyweight/ConcreteFlyWeight2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/flyweight/ConcreteFlyWeight2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/flyweight/Extrinsic.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/flyweight/Extrinsic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/flyweight/FlyWeight.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/flyweight/FlyWeight.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/flyweight/FlyWeightFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/flyweight/FlyWeightFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/flyweight/享元模式.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/handler/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/handler/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/handler/ConcreteHandler0.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/handler/ConcreteHandler0.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/handler/ConcreteHandler1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/handler/ConcreteHandler1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/handler/ConcreteHandler2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/handler/ConcreteHandler2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/handler/Handler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/handler/Handler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/handler/Level.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/handler/Level.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/handler/Request.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/handler/Request.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/handler/Response.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/handler/Response.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/handler/责任链模式简介.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/interperter/AbstractExpression.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/interperter/AbstractExpression.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/interperter/Context.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/interperter/Context.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/interperter/NoTerminalExpression.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/interperter/NoTerminalExpression.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/interperter/TerminalExpression.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/interperter/TerminalExpression.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/interperter/example/AddExpression.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/interperter/example/AddExpression.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/interperter/example/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/interperter/example/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/interperter/example/Expression.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/interperter/example/Expression.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/interperter/example/InterperEngine.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/interperter/example/InterperEngine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/interperter/example/SubExpression.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/interperter/example/SubExpression.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/interperter/example/SymbolExpression.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/interperter/example/SymbolExpression.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/interperter/example/VarExpression.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/interperter/example/VarExpression.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/interperter/解释器模式.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/iterator/Aggregate.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/iterator/Aggregate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/iterator/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/iterator/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/iterator/ConcreteAggregate.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/iterator/ConcreteAggregate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/iterator/ConcreteIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/iterator/ConcreteIterator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/iterator/Iterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/iterator/Iterator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/iterator/迭代器模式.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/mediator/AbstractMediator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/mediator/AbstractMediator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/mediator/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/mediator/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/mediator/Colleague.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/mediator/Colleague.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/mediator/ConcreteColleague1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/mediator/ConcreteColleague1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/mediator/ConcreteColleague2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/mediator/ConcreteColleague2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/mediator/Mediator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/mediator/Mediator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/mediator/中介者模式简介.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/memento/Caretaker.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/memento/Caretaker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/memento/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/memento/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/memento/Memento.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/memento/Memento.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/memento/Originator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/memento/Originator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/memento/备忘录模式.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/observer/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/observer/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/observer/ConcreteObserver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/observer/ConcreteObserver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/observer/ConcreteSubject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/observer/ConcreteSubject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/observer/Observer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/observer/Observer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/observer/Subject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/observer/Subject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/observer/jdk/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/observer/jdk/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/observer/jdk/RealObserver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/observer/jdk/RealObserver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/observer/jdk/Subject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/observer/jdk/Subject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/observer/观察者模式.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/prototype/DeepClone.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/prototype/DeepClone.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/prototype/PrototypeClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/prototype/PrototypeClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/prototype/原型模式.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/proxy/代理模式.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/singleton/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/singleton/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/singleton/PerfectSingleton$SingletonHolder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/singleton/PerfectSingleton$SingletonHolder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/singleton/PerfectSingleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/singleton/PerfectSingleton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/singleton/Singleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/singleton/Singleton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/singleton/单例模式.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/state/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/state/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/state/ConcreteState1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/state/ConcreteState1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/state/ConcreteState2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/state/ConcreteState2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/state/Context.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/state/Context.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/state/State.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/state/State.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/state/状态模式.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/strategy/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/strategy/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/strategy/ConcreteStrategy1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/strategy/ConcreteStrategy1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/strategy/ConcreteStrategy2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/strategy/ConcreteStrategy2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/strategy/Context.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/strategy/Context.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/strategy/IStrategy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/strategy/IStrategy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/strategy/策略模式.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/template/AbstractClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/template/AbstractClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/template/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/template/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/template/ConcreteClass1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/template/ConcreteClass1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/template/ConcreteClass2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/template/ConcreteClass2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/template/模板模式.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/visitor/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/visitor/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/visitor/ConcreteElement1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/visitor/ConcreteElement1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/visitor/ConcreteElement2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/visitor/ConcreteElement2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/visitor/Element.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/visitor/Element.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/visitor/IVisitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/visitor/IVisitor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/visitor/ObjectStructure.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/visitor/ObjectStructure.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/visitor/Visitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ckp/test/visitor/Visitor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ckp/test/visitor/访问者模式.docx" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CheckStyle-IDEA-workspace">
+    <option name="configuration">
+      <map>
+        <entry key="last-active-plugin-version" value="5.23.0" />
+      </map>
+    </option>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1701983854">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="10" />
+          <entry key="project.open.time.0" value="4" />
+          <entry key="project.open.time.1" value="4" />
+          <entry key="project.open.time.4" value="3" />
+          <entry key="project.opened" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Git file" value="4" />
+          <entry key="JAVA" value="205" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Git file" value="20" />
+          <entry key="JAVA" value="1649" />
+          <entry key="PLAIN_TEXT" value="29" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="catalog" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/catalog">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ckp/test/handler/strengthen_filter/Filter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-              <folding />
+            <state relative-caret-position="45">
+              <caret line="3" column="43" lean-forward="true" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ckp/test/handler/strengthen_filter/FilterChain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="39" column="47" selection-start-line="39" selection-start-column="47" selection-end-line="39" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#721#757#0" expanded="true" />
+                <element signature="e#819#820#0" expanded="true" />
+                <element signature="e#861#862#0" expanded="true" />
+                <element signature="e#1124#1125#0" expanded="true" />
+                <element signature="e#1160#1161#0" expanded="true" />
+                <element signature="e#1187#1188#0" expanded="true" />
+                <element signature="e#1223#1224#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ckp/test/handler/filter/Target.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ckp/test/handler/strengthen_filter/FilterManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="341">
+              <caret line="30" column="17" lean-forward="true" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#692#693#0" expanded="true" />
+                <element signature="e#726#727#0" expanded="true" />
+                <element signature="e#847#848#0" expanded="true" />
+                <element signature="e#875#876#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ckp/test/handler/strengthen_filter/Client.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GradleLocalSettings">
-    <option name="externalProjectsViewState">
-      <projects_view />
-    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/main/resources/catalog" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ckp/test/singleton/Singleton1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ckp/test/abstractfactory/Product.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ckp/test/abstractfactory/Color.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ckp/test/abstractfactory/Creator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ckp/test/abstractfactory/ConcreteShape1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ckp/test/abstractfactory/ConcreteShape.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ckp/test/abstractfactory/ConcreteShape2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ckp/test/abstractfactory/ConcreteShapeCreator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ckp/test/abstractfactory/ConcreteColor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ckp/test/abstractfactory/AbstractCreator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ckp/test/abstractfactory/ColorCreator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ckp/test/abstractfactory/ShapeCreator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ckp/test/abstractfactory/FactoryProducer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ckp/test/abstractfactory/Client.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ckp/test/builder/AbstractBuilder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ckp/test/builder/ConcreteBuilder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ckp/test/builder/ConcreteBuilder2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ckp/test/builder/Director.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ckp/test/mediator/ConcreteColleague2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ckp/test/handler/filter/Filter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ckp/test/handler/filter/FilterChain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ckp/test/handler/filter/AuthFilter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ckp/test/handler/filter/LogFilter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ckp/test/handler/filter/Response.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ckp/test/handler/filter/Request.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ckp/test/handler/filter/Client.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ckp/test/handler/filter/FilterManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ckp/test/handler/strengthen_filter/Filter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ckp/test/handler/strengthen_filter/Result.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ckp/test/handler/filter/Target.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ckp/test/handler/strengthen_filter/FilterManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ckp/test/handler/strengthen_filter/AuthFilter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ckp/test/handler/strengthen_filter/LogFilter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ckp/test/handler/strengthen_filter/Client.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ckp/test/handler/strengthen_filter/FilterChain.java" />
       </list>
     </option>
   </component>
@@ -53,34 +341,24 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="$USER_HOME$/Software/apache-maven-3.3.9" />
+        <option name="mavenHome" value="$USER_HOME$/Softwares/apache-maven-3.5.4" />
       </MavenGeneralSettings>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1440" />
-    <option name="y" value="-47" />
-    <option name="width" value="1920" />
-    <option name="height" value="1053" />
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="1027" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -120,25 +398,56 @@
               <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="handler" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="handler" type="462c0819:PsiDirectoryNode" />
+              <item name="strengthen_filter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="MavenRunHelper" />
-    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="filter&#9;FILE&#9;file:///Users/yuwei/Workspace/IDEA/DesignPattern/src/main/java/com/ckp/test/handler/filter/FilterChain.java" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="true" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551435988155" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="node" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ckp.test.handler.strengthen_filter" />
+      <recent name="com.ckp.test.abstractfactory" />
+      <recent name="com.ckp.test.singleton" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/ckp/test/abstractfactory" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -152,87 +461,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <module />
-    </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-    </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
-    </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-    </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-    </configuration>
+  <component name="RunManager" selected="Application.Client (4)">
     <configuration default="true" type="tests" factoryName="Nosetests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -280,9 +509,130 @@
       <option name="_new_target" value="&quot;&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ckp.test.strategy.Client" />
+      <module name="DesignPattern" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ckp.test.strategy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ckp.test.bridge.Client" />
+      <module name="DesignPattern" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ckp.test.bridge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ckp.test.handler.filter.Client" />
+      <module name="DesignPattern" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ckp.test.handler.filter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ckp.test.handler.strengthen_filter.Client" />
+      <module name="DesignPattern" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ckp.test.handler.strengthen_filter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ckp.test.composite.Client" />
+      <module name="DesignPattern" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ckp.test.composite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Client" />
+      <item itemvalue="Application.Client (1)" />
+      <item itemvalue="Application.Client (2)" />
+      <item itemvalue="Application.Client (3)" />
+      <item itemvalue="Application.Client (4)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client (4)" />
+        <item itemvalue="Application.Client (3)" />
+        <item itemvalue="Application.Client (2)" />
+        <item itemvalue="Application.Client (1)" />
+        <item itemvalue="Application.Client" />
+      </list>
+    </recent_temporary>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -294,6 +644,17 @@
       <workItem from="1516020664790" duration="1838000" />
       <workItem from="1516613624712" duration="1360000" />
       <workItem from="1516971028512" duration="292000" />
+      <workItem from="1542967461549" duration="1073000" />
+      <workItem from="1543238068721" duration="423000" />
+      <workItem from="1543239374935" duration="535000" />
+      <workItem from="1543332112951" duration="244000" />
+      <workItem from="1543491829853" duration="9000" />
+      <workItem from="1544794021326" duration="5297000" />
+      <workItem from="1545220448162" duration="2663000" />
+      <workItem from="1545226518534" duration="729000" />
+      <workItem from="1547193310390" duration="333000" />
+      <workItem from="1547451308830" duration="15000" />
+      <workItem from="1551324731646" duration="13604000" />
     </task>
     <task id="LOCAL-00001" summary="config file">
       <created>1516021160021</created>
@@ -309,48 +670,102 @@
       <option name="project" value="LOCAL" />
       <updated>1516021169631</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add design pattern">
+      <created>1551325233165</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1551325233165</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3490000" />
+    <option name="totallyTimeSpent" value="28415000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1440" y="-47" width="1920" height="1053" extended-state="6" />
+    <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="JRebel Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33229166" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25239617" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="SonarLint" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1705379" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="JRebel" order="2" side_tool="true" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Designer" order="7" />
+      <window_info id="Learn" order="8" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32941177" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32834226" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32941177" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3315508" />
+      <window_info anchor="bottom" id="SonarLint" order="9" />
+      <window_info anchor="bottom" id="JRebel Executor" order="10" />
+      <window_info anchor="bottom" id="JRebel Console" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.32941177" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="13" />
+      <window_info anchor="bottom" id="CheckStyle" order="14" />
+      <window_info anchor="bottom" id="Database Changes" order="15" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="16" weight="0.32834226" />
+      <window_info anchor="right" id="LuaJ" weight="0.3294621" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Data View" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Key Promoter X" order="10" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1705379" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="JRebel" order="2" side_tool="true" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Designer" order="7" />
+      <window_info id="Learn" order="8" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32941177" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32834226" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32941177" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3315508" />
+      <window_info anchor="bottom" id="SonarLint" order="9" />
+      <window_info anchor="bottom" id="JRebel Executor" order="10" />
+      <window_info anchor="bottom" id="JRebel Console" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.32941177" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="13" />
+      <window_info anchor="bottom" id="CheckStyle" order="14" />
+      <window_info anchor="bottom" id="Database Changes" order="15" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="16" weight="0.32834226" />
+      <window_info anchor="right" id="LuaJ" order="0" weight="0.3294621" />
+      <window_info anchor="right" id="Commander" order="1" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Data View" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+      <window_info anchor="right" id="Key Promoter X" order="11" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -360,136 +775,435 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="config file" />
-    <option name="LAST_COMMIT_MESSAGE" value="config file" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
+    <MESSAGE value="add design pattern" />
+    <option name="LAST_COMMIT_MESSAGE" value="add design pattern" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ckp/test/factory/Product.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ckp/test/factory/ConcreteProduct2.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ckp/test/flyweight/ConcreteFlyWeight2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ckp/test/factory/ConcreteProduct1.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ckp/test/flyweight/FlyWeightFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="60">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ckp/test/factory/ConcreteCreator.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ckp/test/handler/ConcreteHandler0.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ckp/test/factory/Creator.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ckp/test/handler/ConcreteHandler1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-          <folding />
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ckp/test/factory/Client.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ckp/test/handler/ConcreteHandler2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/readme.txt">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ckp/test/handler/Response.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="135">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.classpath">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ckp/test/handler/Level.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="30">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ckp/test/handler/Request.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ckp/test/handler/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ckp/test/mediator/AbstractMediator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ckp/test/mediator/Mediator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ckp/test/mediator/Colleague.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ckp/test/mediator/ConcreteColleague1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ckp/test/mediator/ConcreteColleague2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="22" column="105" selection-start-line="22" selection-start-column="105" selection-end-line="22" selection-end-column="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ckp/test/memento/Caretaker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+          <folding>
+            <element signature="e#179#180#0" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ckp/test/memento/Originator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+          <folding>
+            <element signature="e#324#325#0" expanded="true" />
+            <element signature="e#364#365#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ckp/test/memento/Client.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-          <folding />
+          <caret line="8" column="46" lean-forward="true" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ckp/test/factory/Client.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ckp/test/observer/ConcreteObserver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ckp/test/observer/ConcreteSubject.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ckp/test/factory/Creator.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ckp/test/observer/Observer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-          <folding />
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ckp/test/factory/ConcreteCreator.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ckp/test/observer/Subject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ckp/test/observer/Client.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ckp/test/factory/ConcreteProduct1.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ckp/test/state/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ckp/test/state/Context.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ckp/test/state/State.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ckp/test/state/ConcreteState1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ckp/test/visitor/ObjectStructure.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ckp/test/visitor/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ckp/test/visitor/Element.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ckp/test/visitor/ConcreteElement1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ckp/test/visitor/IVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ckp/test/visitor/Visitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/.evernote/149343959-personal-www.evernote.com/external-edits/F31DED57-46F7-4295-BDC3-9FD20D190160/Client.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ckp/test/handler/Handler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ckp/test/handler/filter/LogFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+          <folding>
+            <element signature="e#436#437#0" expanded="true" />
+            <element signature="e#483#484#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ckp/test/handler/filter/AuthFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="21" selection-start-line="19" selection-end-line="20" />
+          <folding>
+            <element signature="e#438#439#0" expanded="true" />
+            <element signature="e#474#475#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ckp/test/handler/filter/Request.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="39" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+          <folding>
+            <element signature="e#545#546#0" expanded="true" />
+            <element signature="e#527#528#0" expanded="true" />
+            <element signature="e#560#561#0" expanded="true" />
+            <element signature="e#612#613#0" expanded="true" />
+            <element signature="e#656#657#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ckp/test/handler/filter/Response.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="e#496#497#0" expanded="true" />
+            <element signature="e#532#533#0" expanded="true" />
+            <element signature="e#522#523#0" expanded="true" />
+            <element signature="e#551#552#0" expanded="true" />
+            <element signature="e#595#596#0" expanded="true" />
+            <element signature="e#631#632#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ckp/test/handler/filter/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="49" lean-forward="true" selection-start-line="31" selection-start-column="49" selection-end-line="31" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ckp/test/handler/filter/FilterChain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="24" column="65" lean-forward="true" selection-start-line="24" selection-start-column="65" selection-end-line="24" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#557#558#0" expanded="true" />
+            <element signature="e#599#600#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ckp/test/handler/strengthen_filter/Result.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="30" lean-forward="true" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+          <folding>
+            <element signature="e#458#459#0" expanded="true" />
+            <element signature="e#490#491#0" expanded="true" />
+            <element signature="e#517#518#0" expanded="true" />
+            <element signature="e#544#545#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ckp/test/handler/strengthen_filter/Target.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ckp/test/handler/filter/Filter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="10" selection-start-line="19" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ckp/test/handler/strengthen_filter/Filter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="43" lean-forward="true" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ckp/test/handler/filter/FilterManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="30" lean-forward="true" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+          <folding>
+            <element signature="e#548#549#0" expanded="true" />
+            <element signature="e#589#590#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ckp/test/handler/strengthen_filter/AuthFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ckp/test/handler/strengthen_filter/LogFilter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
+          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ckp/test/factory/Product.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ckp/test/handler/strengthen_filter/FilterManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="4" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-          <folding />
+        <state relative-caret-position="341">
+          <caret line="30" column="17" lean-forward="true" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#692#693#0" expanded="true" />
+            <element signature="e#726#727#0" expanded="true" />
+            <element signature="e#847#848#0" expanded="true" />
+            <element signature="e#875#876#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ckp/test/factory/ConcreteProduct2.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ckp/test/handler/filter/Target.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="285">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/catalog">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ckp/test/handler/strengthen_filter/FilterChain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-          <folding />
+        <state relative-caret-position="299">
+          <caret line="39" column="47" selection-start-line="39" selection-start-column="47" selection-end-line="39" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#721#757#0" expanded="true" />
+            <element signature="e#819#820#0" expanded="true" />
+            <element signature="e#861#862#0" expanded="true" />
+            <element signature="e#1124#1125#0" expanded="true" />
+            <element signature="e#1160#1161#0" expanded="true" />
+            <element signature="e#1187#1188#0" expanded="true" />
+            <element signature="e#1223#1224#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ckp/test/handler/strengthen_filter/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
