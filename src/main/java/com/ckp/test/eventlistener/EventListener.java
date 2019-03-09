@@ -2,7 +2,7 @@ package com.ckp.test.eventlistener;
 
 /**
  * 描述：
- * ${DESCRIPTION}
+ * 事件监听器
  *
  * @ProjectName: DesignPattern
  * @Package: com.ckp.test.eventlistener

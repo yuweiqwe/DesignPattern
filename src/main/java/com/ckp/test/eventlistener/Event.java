@@ -4,7 +4,7 @@ import java.io.Serializable;
 
 /**
  * 描述：
- * ${DESCRIPTION}
+ * 事件
  *
  * @ProjectName: DesignPattern
  * @Package: com.ckp.test.eventlistener
