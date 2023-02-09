@@ -4,10 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c72bc302-960e-4f97-8fc6-bf7af60930a0" name="Default" comment="reload">
+    <list default="true" id="c72bc302-960e-4f97-8fc6-bf7af60930a0" name="Default" comment="bug修复">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DesignPattern.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ckp/test/factory/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ckp/test/factory/Client.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/ckp/test/factory/工厂模式.docx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ckp/test/factory/工厂模式.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ckp/test/singleton/单例模式.docx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ckp/test/singleton/单例模式.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ckp/test/state/ConcreteState1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ckp/test/state/ConcreteState1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ckp/test/state/ConcreteState2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ckp/test/state/ConcreteState2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +40,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -50,24 +58,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
-    <property name="SearchEverywhereHistoryKey" value="EventListener&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/EventListener.java&#10;JButton&#9;PSI&#9;JAVA://javax.swing.JButton&#10;filter&#9;FILE&#9;file:///Users/yuwei/Workspace/IDEA/DesignPattern/src/main/java/com/ckp/test/handler/filter/FilterChain.java" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="add_unversioned_files" value="true" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554527278480" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="nodejs_interpreter_path" value="node" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "inlay.hints",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java/com/ckp/test/eventlistener" />
@@ -211,17 +213,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -338,7 +329,10 @@
       <workItem from="1622787106349" duration="1426000" />
       <workItem from="1635241332385" duration="1771000" />
       <workItem from="1635341448027" duration="3619000" />
-      <workItem from="1635746481696" duration="634000" />
+      <workItem from="1635746481696" duration="7290000" />
+      <workItem from="1640777802699" duration="502000" />
+      <workItem from="1642595293279" duration="62000" />
+      <workItem from="1675851177571" duration="3064000" />
     </task>
     <task id="LOCAL-00001" summary="config file">
       <created>1516021160021</created>
@@ -431,7 +425,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586241822433</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="bug修复">
+      <created>1635748800427</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1635748800427</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -441,70 +442,8 @@
     <MESSAGE value="add design pattern" />
     <MESSAGE value="config file" />
     <MESSAGE value="reload" />
-    <option name="LAST_COMMIT_MESSAGE" value="reload" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="393" y="126" key="CommitChangelistDialog2" timestamp="1635748758135">
-      <screen x="0" y="25" width="1680" height="1025" />
-    </state>
-    <state x="393" y="126" key="CommitChangelistDialog2/-1920.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1635748758135" />
-    <state width="1638" height="354" key="GridCell.Tab.0.bottom" timestamp="1635262415277">
-      <screen x="0" y="25" width="1680" height="1025" />
-    </state>
-    <state width="1638" height="227" key="GridCell.Tab.0.bottom/-800.-1415.3440.1415/0.25.1680.1025@0.25.1680.1025" timestamp="1635243069921" />
-    <state width="1638" height="354" key="GridCell.Tab.0.bottom/0.25.1680.1025@0.25.1680.1025" timestamp="1635262415277" />
-    <state width="1638" height="354" key="GridCell.Tab.0.center" timestamp="1635262415277">
-      <screen x="0" y="25" width="1680" height="1025" />
-    </state>
-    <state width="1638" height="227" key="GridCell.Tab.0.center/-800.-1415.3440.1415/0.25.1680.1025@0.25.1680.1025" timestamp="1635243069920" />
-    <state width="1638" height="354" key="GridCell.Tab.0.center/0.25.1680.1025@0.25.1680.1025" timestamp="1635262415277" />
-    <state width="1638" height="354" key="GridCell.Tab.0.left" timestamp="1635262415276">
-      <screen x="0" y="25" width="1680" height="1025" />
-    </state>
-    <state width="1638" height="227" key="GridCell.Tab.0.left/-800.-1415.3440.1415/0.25.1680.1025@0.25.1680.1025" timestamp="1635243069919" />
-    <state width="1638" height="354" key="GridCell.Tab.0.left/0.25.1680.1025@0.25.1680.1025" timestamp="1635262415276" />
-    <state width="1638" height="354" key="GridCell.Tab.0.right" timestamp="1635262415277">
-      <screen x="0" y="25" width="1680" height="1025" />
-    </state>
-    <state width="1638" height="227" key="GridCell.Tab.0.right/-800.-1415.3440.1415/0.25.1680.1025@0.25.1680.1025" timestamp="1635243069920" />
-    <state width="1638" height="354" key="GridCell.Tab.0.right/0.25.1680.1025@0.25.1680.1025" timestamp="1635262415277" />
-    <state width="1638" height="354" key="GridCell.Tab.1.bottom" timestamp="1635262415278">
-      <screen x="0" y="25" width="1680" height="1025" />
-    </state>
-    <state width="1638" height="354" key="GridCell.Tab.1.bottom/-800.-1415.3440.1415/0.25.1680.1025@0.25.1680.1025" timestamp="1635242923814" />
-    <state width="1638" height="354" key="GridCell.Tab.1.bottom/0.25.1680.1025@0.25.1680.1025" timestamp="1635262415278" />
-    <state width="1638" height="354" key="GridCell.Tab.1.center" timestamp="1635262415278">
-      <screen x="0" y="25" width="1680" height="1025" />
-    </state>
-    <state width="1638" height="354" key="GridCell.Tab.1.center/-800.-1415.3440.1415/0.25.1680.1025@0.25.1680.1025" timestamp="1635242923814" />
-    <state width="1638" height="354" key="GridCell.Tab.1.center/0.25.1680.1025@0.25.1680.1025" timestamp="1635262415278" />
-    <state width="1638" height="354" key="GridCell.Tab.1.left" timestamp="1635262415278">
-      <screen x="0" y="25" width="1680" height="1025" />
-    </state>
-    <state width="1638" height="354" key="GridCell.Tab.1.left/-800.-1415.3440.1415/0.25.1680.1025@0.25.1680.1025" timestamp="1635242923813" />
-    <state width="1638" height="354" key="GridCell.Tab.1.left/0.25.1680.1025@0.25.1680.1025" timestamp="1635262415278" />
-    <state width="1638" height="354" key="GridCell.Tab.1.right" timestamp="1635262415278">
-      <screen x="0" y="25" width="1680" height="1025" />
-    </state>
-    <state width="1638" height="354" key="GridCell.Tab.1.right/-800.-1415.3440.1415/0.25.1680.1025@0.25.1680.1025" timestamp="1635242923814" />
-    <state width="1638" height="354" key="GridCell.Tab.1.right/0.25.1680.1025@0.25.1680.1025" timestamp="1635262415278" />
-    <state x="349" y="173" key="SettingsEditor" timestamp="1635748780162">
-      <screen x="0" y="25" width="1680" height="1025" />
-    </state>
-    <state x="349" y="173" key="SettingsEditor/-1920.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1635748780162" />
-    <state x="570" y="273" width="540" height="524" key="StructurePopup" timestamp="1635343856504">
-      <screen x="0" y="25" width="1680" height="1025" />
-    </state>
-    <state x="570" y="273" width="540" height="524" key="StructurePopup/-800.-1415.3440.1415/0.25.1680.1025@0.25.1680.1025" timestamp="1635343856504" />
-    <state x="-241" y="-1075" width="602" height="735" key="find.popup" timestamp="1635342094094">
-      <screen x="-800" y="-1415" width="3440" height="1415" />
-    </state>
-    <state x="-241" y="-1075" width="602" height="735" key="find.popup/-800.-1415.3440.1415/0.25.1680.1025@-800.-1415.3440.1415" timestamp="1635342094094" />
-    <state x="256" y="260" width="670" height="490" key="search.everywhere.popup" timestamp="1635343462503">
-      <screen x="0" y="25" width="1680" height="1025" />
-    </state>
-    <state x="-275" y="-1091" width="670" height="676" key="search.everywhere.popup/-800.-1415.3440.1415/0.25.1680.1025@-800.-1415.3440.1415" timestamp="1635342088449" />
-    <state x="256" y="260" width="670" height="490" key="search.everywhere.popup/-800.-1415.3440.1415/0.25.1680.1025@0.25.1680.1025" timestamp="1635343462503" />
+    <MESSAGE value="bug修复" />
+    <option name="LAST_COMMIT_MESSAGE" value="bug修复" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

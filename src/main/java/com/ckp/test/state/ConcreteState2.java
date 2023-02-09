@@ -7,9 +7,7 @@ public class ConcreteState2 extends State {
 		// TODO Auto-generated method stub
 		//设置当前状态为state1
 		super.context.setCurrentState(Context.STATE1);
-		//过渡到state1状态，由Context处理
-		super.context.handle1();
-		
+		System.out.println("ConcreteState2 的 handle1 方法");
 	}
 
 	@Override
